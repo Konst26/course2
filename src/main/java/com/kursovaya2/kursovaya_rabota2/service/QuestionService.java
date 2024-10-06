@@ -12,7 +12,6 @@ public interface QuestionService {
 
     }
 
-
     Question add(Question question);
 
     Question remove(Question question);
